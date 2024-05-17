@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e5302c48c6b7bc5",
+  "name" : "Adding one any product to cart",
+  "time" : {
+    "start" : 1715908096011,
+    "stop" : 1715908097153,
+    "duration" : 1142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

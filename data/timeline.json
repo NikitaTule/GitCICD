@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "4b053971cea8",
+    "children" : [ {
+      "name" : "1-MainThread",
+      "children" : [ {
+        "name" : "Adding one any product to cart",
+        "uid" : "e5302c48c6b7bc5",
+        "parentUid" : "6689f4ab27f23c177a5361bcdef42f55",
+        "status" : "passed",
+        "time" : {
+          "start" : 1715908096011,
+          "stop" : 1715908097153,
+          "duration" : 1142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6689f4ab27f23c177a5361bcdef42f55"
+    } ],
+    "uid" : "5cc179a82abd06a98bddcd20db42da6d"
+  } ],
+  "name" : "timeline"
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Adding an product or products to cart",
+    "children" : [ {
+      "name" : "Adding one any product to cart",
+      "uid" : "e5302c48c6b7bc5",
+      "parentUid" : "ee92d4a017d07cbf30b9f8d71876e115",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715908096011,
+        "stop" : 1715908097153,
+        "duration" : 1142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ee92d4a017d07cbf30b9f8d71876e115"
+  } ],
+  "name" : "behaviors"
+}
