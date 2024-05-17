@@ -1,26 +1,26 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
-    "name" : "4b053971cea8",
+    "name" : "179b3d5ecca5",
     "children" : [ {
       "name" : "1-MainThread",
       "children" : [ {
         "name" : "Adding one any product to cart",
-        "uid" : "e5302c48c6b7bc5",
-        "parentUid" : "6689f4ab27f23c177a5361bcdef42f55",
+        "uid" : "98450ba2e00ca474",
+        "parentUid" : "af10d330c470bb1beac1dc3b24a4baa8",
         "status" : "passed",
         "time" : {
-          "start" : 1715908096011,
-          "stop" : 1715908097153,
-          "duration" : 1142
+          "start" : 1715908540271,
+          "stop" : 1715908541341,
+          "duration" : 1070
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "6689f4ab27f23c177a5361bcdef42f55"
+      "uid" : "af10d330c470bb1beac1dc3b24a4baa8"
     } ],
-    "uid" : "5cc179a82abd06a98bddcd20db42da6d"
+    "uid" : "7a6f2d77f8f6c4840e6ee1e8f6353c86"
   } ],
   "name" : "timeline"
 }
